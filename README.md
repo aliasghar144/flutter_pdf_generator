@@ -25,4 +25,4 @@ A professional Flutter implementation for dynamic PDF generation,
 
 | PDF Preview | Sharing |
 | :---: | :---: |
-| <img src="screenshots/preview.png" width="250"> | <img src="screenshots/share.png" width="250"> |
+| <img src="screenshot/preview.png" width="250"> | <img src="screenshot/share.png" width="250"> |
